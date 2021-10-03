@@ -17,7 +17,7 @@ P.S. Star and share this repository, if you had fun!
 
 - Create a [Github](https://github.com/) account for free [here](https://github.com/).
 - Register at [Hactoberfest-2021](https://hacktoberfest.digitalocean.com/) using your Github id.
-- Star this repo and share it with your friends.
+- Star this repository and share it with your friends.
 - Add your programs/code to the respective folders of each programming language.
 
 ## Ideas for contributions
